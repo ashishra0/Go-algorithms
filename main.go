@@ -1,6 +1,5 @@
 package main
 
 func main() {
-	getPyramid(5)
-	getSteps(5)
+	// all function calls here
 }
