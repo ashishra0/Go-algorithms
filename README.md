@@ -7,3 +7,4 @@
 * Reverse String
 * FizzBuzz
 * Palindrome
+* Reverse Integer
