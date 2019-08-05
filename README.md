@@ -4,3 +4,5 @@
 #### Algorithms:
 * Print Pyramid
 * Print Steps
+* Reverse String
+* FizzBuzz
