@@ -6,3 +6,4 @@
 * Print Steps
 * Reverse String
 * FizzBuzz
+* Palindrome
