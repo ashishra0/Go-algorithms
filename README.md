@@ -8,3 +8,5 @@
 * FizzBuzz
 * Palindrome
 * Reverse Integer
+* Vowel Count
+* Anagram
