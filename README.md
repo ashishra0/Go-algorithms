@@ -10,3 +10,4 @@
 * Reverse Integer
 * Vowel Count
 * Anagram
+* Capitalize
